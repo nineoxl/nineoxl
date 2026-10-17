@@ -1,4 +1,4 @@
-### nineoxl 🔧
+### nineoxl
 
 Mods and small tools for desktop apps.
 
