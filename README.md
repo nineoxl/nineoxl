@@ -1,5 +1,4 @@
-### nineoxl
-
-Mods and small tools for desktop apps.
-
-🎧 **riff**: mods for the Spotify app. Soon.
+- 👋 Hi, I’m @nineoxl
+- 👀 I’m interested in app mods and UI that blends in
+- 🌱 I’m currently building **riff**, mods for the Spotify app (open source soon)
+- 📫 How to reach me: open an issue on any of my repos
